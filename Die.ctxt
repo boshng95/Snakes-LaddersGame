@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\r\n\ \r\n\r\n\ @author\ Bosh\ (Hou\ Jun\ Ng)\r\n\ @java\ 10.0.2\r\n
+comment1.params=
+comment1.target=Die()
+comment2.params=faces
+comment2.target=Die(int)
+comment2.text=\r\n\ To\ ensure\ the\ random\ number\ is\ generate\ within\ 1\ to\ 6\r\n\ @param\ faces\r\n
+comment3.params=
+comment3.target=int\ getFaces()
+comment3.text=\r\n\ Getter\ of\ die\ number\ of\ faces\r\n\ @return\ numFaces;\r\n
+comment4.params=
+comment4.target=int\ roll()
+comment4.text=\r\n\ To\ roll\ the\ die\ with\ Random\ generator\ within\ 1\ to\ 6.\r\n\ @return\ faceValue;\r\n
+comment5.params=
+comment5.target=int\ getFaceValue()
+comment5.text=\r\n\ Getter\ of\ random\ face\ value\r\n\ @return\ faceValue;\r\n
+numComments=6

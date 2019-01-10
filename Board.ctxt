@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ \r\n\r\n\ @author\ Bosh\ (Hou\ Jun\ Ng)\r\n\ @java\ 10.0.2\r\n
+comment1.params=i
+comment1.target=int\ getSnakeDecrease(int)
+comment1.text=\r\n\ Getters\ of\ difference\ between\ decrease\ on\ snakes\r\n\ @param\ i\r\n\ @return\ int\r\n
+comment2.params=i
+comment2.target=int\ getLadderIncrease(int)
+comment2.text=\r\n\ Getters\ of\ difference\ between\ increase\ on\ ladders\r\n\ @param\ i\r\n\ @return\ int\r\n
+comment3.params=i
+comment3.target=int\ getSnakeNumber(int)
+comment3.text=\r\n\ Getters\ of\ SnakeNumber\r\n\ @param\ i\r\n\ @return\ snakeStarts[i]\r\n
+comment4.params=i
+comment4.target=int\ getLadderNumber(int)
+comment4.text=\r\n\ \r\n\ @param\ i\r\n\ @return\ ladderStarts[i];\r\n
+comment5.params=i
+comment5.target=java.lang.String\ getSnakeMessage(int)
+comment5.text=\r\n\ Getters\ of\ Snake\ MEssage\r\n\ @param\ i\r\n\ @return\ String\ snakeMessages[i]\r\n
+comment6.params=i
+comment6.target=java.lang.String\ getLadderMessage(int)
+comment6.text=\r\n\ Getters\ of\ ladder\ message\r\n\ @param\ i\r\n\ @return\ ladderMessages[i]\r\n
+numComments=7
